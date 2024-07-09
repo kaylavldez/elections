@@ -1,1 +1,2 @@
-Final Project Submission Link: https://github.com/kaylavldez/kaylavldez.github.io
+GitHub Link: https://github.com/kaylavldez/kaylavldez.github.io
+Page Link: kaylavldez.github.io
